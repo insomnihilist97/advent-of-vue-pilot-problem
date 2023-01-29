@@ -1,4 +1,4 @@
-# pilot-problem
+# Advent of Vue 2022 Pilot Problem (Tic Tac Toe)
 
 ## Project setup
 ```
